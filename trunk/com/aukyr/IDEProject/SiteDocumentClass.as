@@ -1,12 +1,10 @@
 ﻿package com.aukyr.IDEProject {
 	
+	import com.aukyr.IDEProject.SiteElement;
 	import com.aukyr.IDEProject.SiteT;
 	import flash.display.MovieClip;
-	import flash.display.StageAlign;
-	import flash.display.StageScaleMode;
 	import flash.events.Event;
 	import flash.events.ProgressEvent;
-	import com.aukyr.IDEProject.SiteElement;
 	
 	
 	public class SiteDocumentClass extends MovieClip {
